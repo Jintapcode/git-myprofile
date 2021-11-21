@@ -40,3 +40,14 @@
 }
 
 /* home section styling */
+.home{
+    display: flex;
+    background-color: #555;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.home .max-width{
+    margin: auto 0 auto 40px;
+}
